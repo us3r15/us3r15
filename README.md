@@ -2,7 +2,7 @@
 - 👀 I’m interested in VR
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on emulators
-- 📫 How to reach me at 3017891@students.ankenyschools.org
+- 📫 How to reach me at littlebrittle101@gmail.com
 
 <!---
 us3r15/us3r15 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
