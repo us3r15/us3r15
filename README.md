@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @us3r15 
 - 👀 I’m interested in VR
 - 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on emulators
+- 💞️ I’m looking to collaborate on random thingymagigymas
 - 📫 How to reach me at littlebrittle101@gmail.com
 
 <!---
