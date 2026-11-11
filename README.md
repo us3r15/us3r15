@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @us3r15 
 - 👀 I’m interested in games
-- 🌱 I’m currently learning C#, Java, NASM, and python
+- 🌱 I’m currently learning C#, Java, NASM, Rust, and python
 - 💞️ I’m looking to collaborate on random thingymagigymas
 - 📫 How to reach me at littlebrittle101@gmail.com
 
