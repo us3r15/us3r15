@@ -17,7 +17,7 @@ To that, you may find the answer [here](BACKSTORY.txt) in my little autobiograph
 I'm most experienced in C# (Specifically with Unity), and Python with knowledge of the CMU graphics system. \
 I'm actively learning or intermediately involved in Java, Rust, Go, and NASM x86-64 Assembly \ <!--- Yes, I learned Go and Rust specifically for Cloudflare-->
 \
-If you need to reach me, my email is [littlebrittle101@gmail.com](littlebrittle101@gmail.com) \
+If you need to reach me, my email is [littlebrittle101@gmail.com](https://littlebrittle101@gmail.com) \
 \
 <<Bonus (Python pun)>>: \
-(At long last... Pi-thon ([Python Ver. 3.14.1](https://docs.python.org/release/3.14.1/whatsnew/changelog.html))) \
+(At long last... Pi-thon ([Python Ver. 3.14.1](https://docs.python.org/release/3.14.1/whatsnew/changelog.html)))
