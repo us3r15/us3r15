@@ -12,7 +12,7 @@ As the creator I am and aim to be, I would like to work either at or with one of
 */ \
 \
 Most people that just read that will probably question "why the Video Game company as a final goal?" \
-To that, you may find the answer [here](BACKSTORY.md) in my little autobiography-like rant. \
+To that, you may find the answer [here](BACKSTORY.txt) in my little autobiography-like rant. \
 \
 I'm most experienced in C# (Specifically with Unity), and Python with knowledge of the CMU graphics system. \
 I'm actively learning or intermediately involved in Java, Rust, Go, and NASM x86-64 Assembly \ <!--- Yes, I learned Go and Rust specifically for Cloudflare-->
