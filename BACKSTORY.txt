@@ -1,1 +1,35 @@
-When I was 5 years old, I was the brightest bulb in the classroom. Now, bold claim for a 5-year-old, but at the age, I was exceeding in just about every subject, progressing at in my Kindergarten year! Now, it wasn't the biggest problem, after all, I don't need to be the best of the best in 1st Grade to secure a spot at an Ivy League school, but after enough time, the problem was no longer that I wasn't ahead, it was that I was behind! After a year of lackluster performance at best, my parents started trying as best as they could to find the problem, the results? ADHD. Just about anywhere you go nowadays, you'll find someone from the younger generation that has this disorder, but at this time, it was kind of a big deal! My parents desperately searched for solutions because they knew what I was capable of, and they in particular, wanted to see me exceed as I did once upon a time, because they knew what I was capable of. As I grew older, I made little improvement, being barely on-time for assignments and lacking in effort. In fifth grade, we started learning about the Boston Tea Party, and why it happened. I failed the test, and for my birthday, my parents took me to Boston to better understand the contents of my assignment. On the visit, we passed through the Massachusetts Institute of Technology (Otherwise known as MIT), and at first sight I was in sheer awe at what the people of this college had been able to do. After this unforgettable experience, I made it my lifelong goal to attend that school for my undergrad, though I hardly knew what an undergraduate was at the time. In 2019, I began competing in the First Lego League; I had been assigned to program the robot we had made, and I absolutely loved it! It was my calling to be a professional programmer, even leading to my role in the Swartdogs FRC programming team! As a video-game enthusiast and "expert" I wanted to outlet my creative programming ability into something I take much pride in, video-games; at the age of 12, I began my real programming journey, going so far as to learn C# in Unity in order to further progress in my college goals, while also making fully-functional video-game models that I could indulge in and edit as I felt necessary. By 2025, my freshman year of High School came around and this was it, this is the moment I had been warned about, this would decide whether I live my dream or I fail and make second best (Boston Dynamics). Put shortly, I absolutely bombed all of my classes, I tried exceeding all expectation by increasing the amount of AP classes I took, and ended up getting last place. At this moment I felt hopeless, defeated by the letters deciding my fate, and to make things worse, I had to move houses over the summer. It felt like the worst things imaginable were happening, but I couldn't have been more incorrect. During the move in the Summer of 2026, something clicked, I lost all the distractions in my life in this new environment, then funneling all my attention toward the major tasks at hand. In this new High School I thrived, I was at the top! In all of this, the emphasis is on improvement, I was never ALWAYS the best, but with enough determination, I did it, I made it to where I wanted to be, regardless of other's minimal belief in my progress, and most importantly, regardless of my failures I tried tried again. was exposed to all of the opportunities I needed and at last I was in a learning environment I could truly appreciate. Regardless of my disadvantages, I surpassed the academic standard, allowing me to succeed as I so desperately intended to do in the beginning.
+When I was 5 years old, I was the brightest bulb in the classroom. Now, bold claim for a 5-year-old, 
+but at the age, I was exceeding in just about every subject, progressing at in my Kindergarten year! 
+Now, it wasn't the biggest problem, after all, I don't need to be the best of the best in 1st Grade 
+to secure a spot at an Ivy League school, but after enough time, the problem was no longer that I 
+wasn't ahead, it was that I was behind! After a year of lackluster performance at best, my parents 
+started trying as best as they could to find the problem, the results? ADHD. Just about anywhere you
+go nowadays, you'll find someone from the younger generation that has this disorder, but at this 
+time, it was kind of a big deal! My parents desperately searched for solutions because they knew what 
+I was capable of, and they in particular, wanted to see me exceed as I did once upon a time, because 
+they knew what I was capable of. As I grew older, I made little improvement, being barely on-time for 
+assignments and lacking in effort. In fifth grade, we started learning about the Boston Tea Party, 
+and why it happened. I failed the test, and for my birthday, my parents took me to Boston to better 
+understand the contents of my assignment. On the visit, we passed through the Massachusetts Institute- 
+of Technology (Otherwise known as MIT), and at first sight I was in sheer awe at what the people of 
+this college had been able to do. After this unforgettable experience, I made it my lifelong goal to 
+attend that school for my undergrad, though I hardly knew what an undergraduate was at the time. In 
+2019, I began competing in the First Lego League; I had been assigned to program the robot we had made, 
+and I absolutely loved it! It was my calling to be a professional programmer, even leading to my role in 
+the Swartdogs FRC programming team! As a video-game enthusiast and "expert" I wanted to outlet my 
+creative programming ability into something I take much pride in, video-games; at the age of 12, I began 
+my real programming journey, going so far as to learn C# in Unity in order to further progress in my 
+college goals, while also making fully-functional video-game models that I could indulge in and edit as I 
+felt necessary. By 2025, my freshman year of High School came around and this was it, this is the moment I 
+had been warned about, this would decide whether I live my dream or I fail and make second best (Boston Dynamics). 
+Put shortly, I absolutely bombed all of my classes, I tried exceeding all expectation by increasing the amount 
+of AP classes I took, and ended up getting last place. At this moment I felt hopeless, defeated by the letters 
+deciding my fate, and to make things worse, I had to move houses over the summer. It felt like the worst things 
+imaginable were happening, but I couldn't have been more incorrect. During the move in the Summer of 2026, 
+something clicked, I lost all the distractions in my life in this new environment, then funneling all my attention 
+toward the major tasks at hand. In this new High School I thrived, I was at the top! In all of this, the emphasis 
+is on improvement, I was never ALWAYS the best, in fact I'm still not! But with enough determination, I did it, 
+I made it to where I wanted to be, regardless of other's minimal belief in my progress, and most importantly, 
+regardless of my failures I tried tried again. was exposed to all of the opportunities I needed and at last I 
+was in a learning environment I could truly appreciate. Regardless of my disadvantages, I surpassed the academic 
+standard, allowing me to succeed as I so desperately intended to do in the beginning.
