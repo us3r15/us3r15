@@ -5,7 +5,7 @@
   <img src="https://ghstats.dev/api/mini?username=Len-01000101&theme=radical&metric=hours&label=Time+wasted%3A&style=plastic" alt="GitHub Mini Badge" /><br>
 </p>
 <p align=center>
-  <img src="https://ghstats.dev/api/card?username=Len-01000101&theme=radical&hide_border=true&border_radius=50"alt="GitHub Stats Card">&emsp;<img src="https://ghstats.dev/api/langs?username=Len-01000101&theme=radical&hide_border=true&hide_title=true&max_langs=12&layout=donut_vertical" alt="Top Languages" /><br>
+  <img src="https://ghstats.dev/api/card?username=Len-01000101&theme=radical&hide_border=true&border_radius=50"alt="GitHub Stats Card">&emsp;<img src="https://ghstats.dev/api/langs?username=Len-01000101&theme=radical&max_langs=12&layout=donut_vertical" alt="Top Languages" /> <br>
 </p>
 
   <h1>
