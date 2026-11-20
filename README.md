@@ -2,7 +2,7 @@
   Stats:
 </h1>
 <p align=right>
-  <img src="https://ghstats.dev/api/mini?username=Len-01000101&theme=radical&metric=hours&label=Time+wasted%3A&style=plastic" alt="GitHub Mini Badge" /><br>
+  <img src="https://ghstats.dev/api/mini?username=Len-01000101&theme=radical&metric=hours&label=Approx+time+wasted%3A&style=plastic" alt="GitHub Mini Badge" /><br><br>
 </p>
 <p align=center>
   <img src="https://ghstats.dev/api/card?username=Len-01000101&theme=radical&hide_border=true&border_radius=50"alt="GitHub Stats Card">&emsp;<img src="https://ghstats.dev/api/langs?username=Len-01000101&theme=radical&hide_border=true&max_langs=12&layout=donut_vertical" alt="Top Languages" /> <br>
@@ -11,7 +11,7 @@
   <h1>
     Bio:
   </h1>
-  <p align=center>
+  <p align=right>
     Hello! I'm Everett, I'm a 15 year old Sophomore currently enrolled in <code>static public school CedarFallsHS()</code> [C# pun]
     I'm very creative and LOVE making cool new thingys! I love to learn and do the <code>Mathf.Abs(float.MaxValue);</code> [More C# puns]
     As the creator I am and aim to be, I would like to work either at or
